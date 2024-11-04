@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\APITEST_ENTREVISTA_TECNICA\\API4\\WEB_API_CUATRO_AUTH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68F9D7-FDA9-402E-B9A5-EFF920BB8168}|WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj|d:\\apitest_entrevista_tecnica\\api4\\web_api_cuatro_auth\\web_api_cuatro_auth\\web_api_cuatro_auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E68F9D7-FDA9-402E-B9A5-EFF920BB8168}|WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj|solutionrelative:web_api_cuatro_auth\\web_api_cuatro_auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68F9D7-FDA9-402E-B9A5-EFF920BB8168}|WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj|d:\\apitest_entrevista_tecnica\\api4\\web_api_cuatro_auth\\web_api_cuatro_auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E68F9D7-FDA9-402E-B9A5-EFF920BB8168}|WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj|solutionrelative:web_api_cuatro_auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68F9D7-FDA9-402E-B9A5-EFF920BB8168}|WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj|d:\\apitest_entrevista_tecnica\\api4\\web_api_cuatro_auth\\web_api_cuatro_auth\\repositories\\impl\\alumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E68F9D7-FDA9-402E-B9A5-EFF920BB8168}|WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj|solutionrelative:web_api_cuatro_auth\\repositories\\impl\\alumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68F9D7-FDA9-402E-B9A5-EFF920BB8168}|WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj|d:\\apitest_entrevista_tecnica\\api4\\web_api_cuatro_auth\\web_api_cuatro_auth\\services\\impl\\alumnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E68F9D7-FDA9-402E-B9A5-EFF920BB8168}|WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj|solutionrelative:web_api_cuatro_auth\\services\\impl\\alumnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68F9D7-FDA9-402E-B9A5-EFF920BB8168}|WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj|d:\\apitest_entrevista_tecnica\\api4\\web_api_cuatro_auth\\web_api_cuatro_auth\\services\\interfaces\\ialumnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E68F9D7-FDA9-402E-B9A5-EFF920BB8168}|WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj|solutionrelative:web_api_cuatro_auth\\services\\interfaces\\ialumnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68F9D7-FDA9-402E-B9A5-EFF920BB8168}|WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj|d:\\apitest_entrevista_tecnica\\api4\\web_api_cuatro_auth\\web_api_cuatro_auth\\repositories\\interfaces\\ialumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E68F9D7-FDA9-402E-B9A5-EFF920BB8168}|WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj|solutionrelative:web_api_cuatro_auth\\repositories\\interfaces\\ialumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68F9D7-FDA9-402E-B9A5-EFF920BB8168}|WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj|d:\\apitest_entrevista_tecnica\\api4\\web_api_cuatro_auth\\web_api_cuatro_auth\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E68F9D7-FDA9-402E-B9A5-EFF920BB8168}|WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj|solutionrelative:web_api_cuatro_auth\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68F9D7-FDA9-402E-B9A5-EFF920BB8168}|WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj|d:\\apitest_entrevista_tecnica\\api4\\web_api_cuatro_auth\\web_api_cuatro_auth\\config\\impl\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E68F9D7-FDA9-402E-B9A5-EFF920BB8168}|WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj|solutionrelative:web_api_cuatro_auth\\config\\impl\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68F9D7-FDA9-402E-B9A5-EFF920BB8168}|WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj|d:\\apitest_entrevista_tecnica\\api4\\web_api_cuatro_auth\\web_api_cuatro_auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E68F9D7-FDA9-402E-B9A5-EFF920BB8168}|WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj|solutionrelative:web_api_cuatro_auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68F9D7-FDA9-402E-B9A5-EFF920BB8168}|WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj|d:\\apitest_entrevista_tecnica\\api4\\web_api_cuatro_auth\\web_api_cuatro_auth\\config\\interfaces\\iconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E68F9D7-FDA9-402E-B9A5-EFF920BB8168}|WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj|solutionrelative:web_api_cuatro_auth\\config\\interfaces\\iconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68F9D7-FDA9-402E-B9A5-EFF920BB8168}|WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj|d:\\apitest_entrevista_tecnica\\api4\\web_api_cuatro_auth\\web_api_cuatro_auth\\models\\alumnomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E68F9D7-FDA9-402E-B9A5-EFF920BB8168}|WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj|solutionrelative:web_api_cuatro_auth\\models\\alumnomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlumnoService.cs",
+              "DocumentMoniker": "D:\\APITEST_ENTREVISTA_TECNICA\\API4\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH\\Services\\Impl\\AlumnoService.cs",
+              "RelativeDocumentMoniker": "WEB_API_CUATRO_AUTH\\Services\\Impl\\AlumnoService.cs",
+              "ToolTip": "D:\\APITEST_ENTREVISTA_TECNICA\\API4\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH\\Services\\Impl\\AlumnoService.cs",
+              "RelativeToolTip": "WEB_API_CUATRO_AUTH\\Services\\Impl\\AlumnoService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:07:04.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAlumnoService.cs",
+              "DocumentMoniker": "D:\\APITEST_ENTREVISTA_TECNICA\\API4\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH\\Services\\Interfaces\\IAlumnoService.cs",
+              "RelativeDocumentMoniker": "WEB_API_CUATRO_AUTH\\Services\\Interfaces\\IAlumnoService.cs",
+              "ToolTip": "D:\\APITEST_ENTREVISTA_TECNICA\\API4\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH\\Services\\Interfaces\\IAlumnoService.cs",
+              "RelativeToolTip": "WEB_API_CUATRO_AUTH\\Services\\Interfaces\\IAlumnoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:06:50.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlumnoRepository.cs",
+              "DocumentMoniker": "D:\\APITEST_ENTREVISTA_TECNICA\\API4\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH\\Repositories\\Impl\\AlumnoRepository.cs",
+              "RelativeDocumentMoniker": "WEB_API_CUATRO_AUTH\\Repositories\\Impl\\AlumnoRepository.cs",
+              "ToolTip": "D:\\APITEST_ENTREVISTA_TECNICA\\API4\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH\\Repositories\\Impl\\AlumnoRepository.cs",
+              "RelativeToolTip": "WEB_API_CUATRO_AUTH\\Repositories\\Impl\\AlumnoRepository.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAWwLYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T21:35:15.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAlumnoRepository.cs",
+              "DocumentMoniker": "D:\\APITEST_ENTREVISTA_TECNICA\\API4\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH\\Repositories\\Interfaces\\IAlumnoRepository.cs",
+              "RelativeDocumentMoniker": "WEB_API_CUATRO_AUTH\\Repositories\\Interfaces\\IAlumnoRepository.cs",
+              "ToolTip": "D:\\APITEST_ENTREVISTA_TECNICA\\API4\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH\\Repositories\\Interfaces\\IAlumnoRepository.cs",
+              "RelativeToolTip": "WEB_API_CUATRO_AUTH\\Repositories\\Interfaces\\IAlumnoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T21:32:17.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlumnoController.cs",
+              "DocumentMoniker": "D:\\APITEST_ENTREVISTA_TECNICA\\API4\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH\\Controllers\\AlumnoController.cs",
+              "RelativeDocumentMoniker": "WEB_API_CUATRO_AUTH\\Controllers\\AlumnoController.cs",
+              "ToolTip": "D:\\APITEST_ENTREVISTA_TECNICA\\API4\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH\\Controllers\\AlumnoController.cs",
+              "RelativeToolTip": "WEB_API_CUATRO_AUTH\\Controllers\\AlumnoController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:11:11.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\APITEST_ENTREVISTA_TECNICA\\API4\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH\\Program.cs",
+              "RelativeDocumentMoniker": "WEB_API_CUATRO_AUTH\\Program.cs",
+              "ToolTip": "D:\\APITEST_ENTREVISTA_TECNICA\\API4\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH\\Program.cs",
+              "RelativeToolTip": "WEB_API_CUATRO_AUTH\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAmwEYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:16:04.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WEB_API_CUATRO_AUTH",
+              "DocumentMoniker": "D:\\APITEST_ENTREVISTA_TECNICA\\API4\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj",
+              "RelativeDocumentMoniker": "WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj",
+              "ToolTip": "D:\\APITEST_ENTREVISTA_TECNICA\\API4\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj",
+              "RelativeToolTip": "WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T19:10:30.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\APITEST_ENTREVISTA_TECNICA\\API4\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH\\appsettings.json",
+              "RelativeDocumentMoniker": "WEB_API_CUATRO_AUTH\\appsettings.json",
+              "ToolTip": "D:\\APITEST_ENTREVISTA_TECNICA\\API4\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH\\appsettings.json",
+              "RelativeToolTip": "WEB_API_CUATRO_AUTH\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T19:28:24.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\APITEST_ENTREVISTA_TECNICA\\API4\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH\\Config\\Impl\\Connection.cs",
+              "RelativeDocumentMoniker": "WEB_API_CUATRO_AUTH\\Config\\Impl\\Connection.cs",
+              "ToolTip": "D:\\APITEST_ENTREVISTA_TECNICA\\API4\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH\\Config\\Impl\\Connection.cs",
+              "RelativeToolTip": "WEB_API_CUATRO_AUTH\\Config\\Impl\\Connection.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:16:08.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AlumnoModel.cs",
+              "DocumentMoniker": "D:\\APITEST_ENTREVISTA_TECNICA\\API4\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH\\Models\\AlumnoModel.cs",
+              "RelativeDocumentMoniker": "WEB_API_CUATRO_AUTH\\Models\\AlumnoModel.cs",
+              "ToolTip": "D:\\APITEST_ENTREVISTA_TECNICA\\API4\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH\\Models\\AlumnoModel.cs",
+              "RelativeToolTip": "WEB_API_CUATRO_AUTH\\Models\\AlumnoModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:35:20.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IConnection.cs",
+              "DocumentMoniker": "D:\\APITEST_ENTREVISTA_TECNICA\\API4\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH\\Config\\Interfaces\\IConnection.cs",
+              "RelativeDocumentMoniker": "WEB_API_CUATRO_AUTH\\Config\\Interfaces\\IConnection.cs",
+              "ToolTip": "D:\\APITEST_ENTREVISTA_TECNICA\\API4\\WEB_API_CUATRO_AUTH\\WEB_API_CUATRO_AUTH\\Config\\Interfaces\\IConnection.cs",
+              "RelativeToolTip": "WEB_API_CUATRO_AUTH\\Config\\Interfaces\\IConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:12:43.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
